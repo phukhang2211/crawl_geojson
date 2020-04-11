@@ -1,0 +1,845 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6039895,
+                    10.7307362
+                ]
+            },
+            "properties": {
+                "name": "Big C An Lac Supermarket",
+                "Address": "1231 QL1A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6654061,
+                    10.7784856
+                ]
+            },
+            "properties": {
+                "name": "Big C Mi\u1ec1n \u0110\u00f4ng",
+                "Address": "268 T\u00f4 Hi\u1ebfn Th\u00e0nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63126,
+                    10.7795442
+                ]
+            },
+            "properties": {
+                "name": "Big C Ph\u00fa Th\u1ea1nh",
+                "Address": "212 Tho\u1ea1i Ng\u1ecdc H\u1ea7u"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6393642,
+                    10.7896207
+                ]
+            },
+            "properties": {
+                "name": "Big C \u00c2u C\u01a1",
+                "Address": "685 \u00c2u C\u01a1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6802573,
+                    10.825554
+                ]
+            },
+            "properties": {
+                "name": "Big C Go Vap",
+                "Address": "792 Nguy\u1ec5n Ki\u1ec7m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7761024,
+                    10.8895353
+                ]
+            },
+            "properties": {
+                "name": "Big C D\u0129 An",
+                "Address": "\u0110\u00f4ng Ho\u00e0, D\u0129 An, Binh Duong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8504338,
+                    10.9056093
+                ]
+            },
+            "properties": {
+                "name": "Big C \u0110\u1ed3ng Nai",
+                "Address": "S\u1ed1 833 Xa l\u1ed9 H\u00e0 N\u1ed9i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6343636,
+                    10.8064664
+                ]
+            },
+            "properties": {
+                "name": "Big C Tr\u01b0\u1eddng Chinh",
+                "Address": "1 Tr\u01b0\u1eddng Chinh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7471279,
+                    10.8015061
+                ]
+            },
+            "properties": {
+                "name": "Big C An Ph\u00fa",
+                "Address": "T\u1ea7ng B1, Khu nh\u00e0 ph\u1ee9c h\u1ee3p Cantavil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.733058,
+                    10.8013835
+                ]
+            },
+            "properties": {
+                "name": "Big C Th\u1ea3o \u0110i\u1ec1n",
+                "Address": "12 \u0110\u01b0\u1eddng Qu\u1ed1c H\u01b0\u01a1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6643769,
+                    10.9872028
+                ]
+            },
+            "properties": {
+                "name": "BIG C",
+                "Address": "555B \u0110\u1ea1i l\u1ed9 B\u00ecnh D\u01b0\u01a1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.4826726,
+                    10.6376888
+                ]
+            },
+            "properties": {
+                "name": "Ben Luc Co.opmart",
+                "Address": "61 QL1A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7756582,
+                    10.8898807
+                ]
+            },
+            "properties": {
+                "name": "Bigc D\u0129 An",
+                "Address": "\u0110\u00f4ng Ho\u00e0, D\u0129 An, Binh Duong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6359329,
+                    10.8797247
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart Hi\u1ec7p Th\u00e0nh",
+                "Address": "276 Nguy\u1ec5n \u1ea2nh Th\u1ee7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6631748,
+                    10.7760837
+                ]
+            },
+            "properties": {
+                "name": "Si\u00eau Th\u1ecb Big C",
+                "Address": "332 T\u00f4 Hi\u1ebfn Th\u00e0nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6550285,
+                    10.7443202
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart Tuy L\u00fd V\u01b0\u01a1ng",
+                "Address": "40-54 Tuy L\u00fd V\u01b0\u01a1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8546856,
+                    10.9664857
+                ]
+            },
+            "properties": {
+                "name": "Big C T\u00e2n Hi\u1ec7p",
+                "Address": "1135 Nguy\u1ec5n \u00c1i Qu\u1ed1c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6872568,
+                    10.7664617
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart C\u1ed1ng Qu\u1ef3nh",
+                "Address": "189C C\u1ed1ng Qu\u1ef3nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.3476762,
+                    10.3731245
+                ]
+            },
+            "properties": {
+                "name": "Co.Opmart M\u1ef9 Tho",
+                "Address": "35 \u1ea4p B\u1eafc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6067061,
+                    10.8890643
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart H\u00f3c M\u00f4n",
+                "Address": "\u0110\u01b0\u1eddng \u0110\u1eb7ng Th\u00fac V\u1ecbnh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.702043,
+                    10.7410229
+                ]
+            },
+            "properties": {
+                "name": "Big C Tuy\u1ec3n D\u1ee5ng",
+                "Address": "469 \u0110\u01b0\u1eddng Nguy\u1ec5n H\u1eefu Th\u1ecd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6587865,
+                    10.7980714
+                ]
+            },
+            "properties": {
+                "name": "Si\u00eau Thi Auchan Ho\u00e0ng V\u0103n Th\u1ee5",
+                "Address": "431A Ho\u00e0ng V\u0103n Th\u1ee5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6651163,
+                    10.7787147
+                ]
+            },
+            "properties": {
+                "name": "Si\u00eau th\u1ecb bigc mi\u1ec1n \u0111\u00f4ng",
+                "Address": "268 T\u00f4 Hi\u1ebfn Th\u00e0nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7761756,
+                    10.8683435
+                ]
+            },
+            "properties": {
+                "name": "Supermarket Co.opXtra Thu Duc",
+                "Address": "934 QL1A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7033107,
+                    10.7299601
+                ]
+            },
+            "properties": {
+                "name": "Co.op Xtra",
+                "Address": "1058 Nguy\u1ec5n V\u0103n Linh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7742402,
+                    10.8479351
+                ]
+            },
+            "properties": {
+                "name": "Si\u00eau Th\u1ecb Co.opmart Xa L\u1ed9 H\u00e0 N\u1ed9i",
+                "Address": "191 Quang Trung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6619715,
+                    10.7600173
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart L\u00fd Th\u01b0\u1eddng Ki\u1ec7t",
+                "Address": "497 Ho\u00e0 H\u1ea3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.643181,
+                    10.749985
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart H\u1eadu Giang",
+                "Address": "188 \u0110\u01b0\u1eddng H\u1eadu Giang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8340695,
+                    10.9586353
+                ]
+            },
+            "properties": {
+                "name": "Coopmart Bien Hoa",
+                "Address": "Ph\u1ea1m V\u0103n Thu\u1eadn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6822029,
+                    10.7921721
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart Nhi\u00eau L\u1ed9c",
+                "Address": "T\u1ea7ng tr\u1ec7t cao \u1ed1c SCREC, S\u1ed1 974A TP, Tr\u01b0\u1eddng Sa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7624982,
+                    10.7739076
+                ]
+            },
+            "properties": {
+                "name": "Si\u00eau Th\u1ecb Co.opmart \u0110\u1ed3ng V\u0103n C\u1ed1ng",
+                "Address": "125 \u0110\u1ed3ng V\u0103n C\u1ed1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6134404,
+                    10.7534188
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart B\u00ecnh T\u00e2n",
+                "Address": "158 \u0110\u01b0\u1eddng s\u1ed1 19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7188568,
+                    10.7290876
+                ]
+            },
+            "properties": {
+                "name": "Auchan Supermarket",
+                "Address": "Trung t\u00e2m th\u01b0\u01a1ng m\u1ea1i, Crescent Mall, 101 T\u00f4n D\u1eadt Ti\u00ean"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.608781,
+                    10.8575531
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart",
+                "Address": "2 Nguy\u1ec5n \u1ea2nh Th\u1ee7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.5660474,
+                    10.7706655
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart V\u0129nh L\u1ed9c B",
+                "Address": "Khu t\u00e1i \u0111\u1ecbnh c\u01b0 Ph\u1ea1m V\u0103n Hai, 2 \u0110\u01b0\u1eddng s\u1ed1 8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6677591,
+                    10.9645457
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart B\u00ecnh D\u01b0\u01a1ng",
+                "Address": "\u0110\u01b0\u1eddng 30/4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.633557,
+                    10.7543629
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart Ph\u00fa L\u00e2m",
+                "Address": "06 B\u00e0 Hom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7154794,
+                    10.8328018
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart B\u00ecnh Tri\u1ec7u",
+                "Address": "\u0110\u01b0\u1eddng s\u1ed1 10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6713863,
+                    10.8379324
+                ]
+            },
+            "properties": {
+                "name": "Lotte Mart G\u00f2 V\u1ea5p",
+                "Address": "242 Nguy\u1ec5n V\u0103n L\u01b0\u1ee3ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6822378,
+                    10.8299624
+                ]
+            },
+            "properties": {
+                "name": "Phan Van Tri Co.opmart",
+                "Address": "Shop 1, T\u1ea7ng Tr\u1ec7t Si\u00eau Th\u1ecb Co.op Phan V\u0103n Tr\u1ecb, S\u1ed1 543/1 Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 7, Qu\u1eadn G\u00f2 V\u1ea5p"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.9679915,
+                    10.4124321
+                ]
+            },
+            "properties": {
+                "name": "Can Gio Coopmart Supermarket",
+                "Address": "TT. C\u1ea7n Th\u1ea1nh, C\u1ea7n Gi\u1edd, Ho Chi Minh City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.4112182,
+                    10.534873
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart T\u00e2n An",
+                "Address": "01 Mai Th\u1ecb T\u1ed1t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6718125,
+                    10.7624375
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart H\u00f2a H\u1ea3o",
+                "Address": "QM6C+XP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7032152,
+                    10.8107365
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart",
+                "Address": "241A Chu V\u0103n An"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6677042,
+                    10.7685389
+                ]
+            },
+            "properties": {
+                "name": "Saigon Supermarket",
+                "Address": "460 \u0110\u01b0\u1eddng 3 Th\u00e1ng 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6936102,
+                    10.8235363
+                ]
+            },
+            "properties": {
+                "name": "Emart Go Vap",
+                "Address": "366 Phan V\u0103n Tr\u1ecb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7020968,
+                    10.7411318
+                ]
+            },
+            "properties": {
+                "name": "Lotte Mart",
+                "Address": "469 \u0110\u01b0\u1eddng Nguy\u1ec5n H\u1eefu Th\u1ecd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7376543,
+                    10.7117318
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart Hu\u1ef3nh T\u1ea5n Ph\u00e1t",
+                "Address": "1362 Hu\u1ef3nh T\u1ea5n Ph\u00e1t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.718563,
+                    10.7999596
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart V\u0103n Th\u00e1nh",
+                "Address": "T\u00f2a nh\u00e0 Pearl Plaza, 561A \u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8342978,
+                    10.9587278
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart Bi\u00ean H\u00f2a",
+                "Address": "121 QL15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6557401,
+                    10.9813014
+                ]
+            },
+            "properties": {
+                "name": "Aeon Citimart B\u00ecnh D\u01b0\u01a1ng",
+                "Address": "449 Yersin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.3561291,
+                    11.0306675
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart Supermarket",
+                "Address": "Khu ph\u1ed1 L\u1ed9c An"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.0553822,
+                    10.5988185
+                ]
+            },
+            "properties": {
+                "name": "Si\u00eau th\u1ecb Coop Mart T\u00e2n Th\u00e0nh",
+                "Address": "\u0110\u1ed9c l\u1eadp, \u0110\u00f4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7034669,
+                    10.8108111
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart",
+                "Address": "243 Chu V\u0103n An"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6731383,
+                    10.3545719
+                ]
+            },
+            "properties": {
+                "name": "Co.opmart G\u00f2 C\u00f4ng",
+                "Address": "Tr\u1ea7n C\u00f4ng T\u01b0\u1eddng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6030327,
+                    11.1249929
+                ]
+            },
+            "properties": {
+                "name": "Si\u00eau Th\u1ecb Vinatexmart M\u1ef9 Ph\u01b0\u1edbc 1",
+                "Address": "\u0110\u01b0\u1eddng N5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7117956,
+                    10.9056762
+                ]
+            },
+            "properties": {
+                "name": "LOTTE Mart B\u00ecnh D\u01b0\u01a1ng",
+                "Address": "Khu \u0111\u00f4 th\u1ecb The Seasons P, \u0110\u1ea1i l\u1ed9 B\u00ecnh D\u01b0\u01a1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6015119,
+                    10.7652586
+                ]
+            },
+            "properties": {
+                "name": "Coop Mart B\u00ecnh T\u00e2n 2",
+                "Address": "819 HL2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6808333,
+                    10.7761111
+                ]
+            },
+            "properties": {
+                "name": "Vinmart 3/2",
+                "Address": "3C \u0110\u01b0\u1eddng 3 Th\u00e1ng 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7575836,
+                    10.7850189
+                ]
+            },
+            "properties": {
+                "name": "VinMart Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh",
+                "Address": "231 Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh"
+            }
+        }
+    ]
+}

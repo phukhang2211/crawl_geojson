@@ -1,0 +1,845 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6964048,
+                    10.7511488
+                ]
+            },
+            "properties": {
+                "name": "Hospital Tan Hung",
+                "Address": "871 Tr\u1ea7n Xu\u00e2n So\u1ea1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6144995,
+                    10.7477106
+                ]
+            },
+            "properties": {
+                "name": "Minh Anh Hospital",
+                "Address": "36 \u0110\u01b0\u1eddng S\u1ed1 1B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6701589,
+                    10.7685603
+                ]
+            },
+            "properties": {
+                "name": "Children\u2019s Hospital 1",
+                "Address": "341 S\u01b0 V\u1ea1n H\u1ea1nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6713783,
+                    10.7717729
+                ]
+            },
+            "properties": {
+                "name": "Van Hanh General Hospital",
+                "Address": "781/B1-B3-B5 H\u1ebbm 781 L\u00ea H\u1ed3ng Phong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6854136,
+                    10.8284465
+                ]
+            },
+            "properties": {
+                "name": "Vu Anh International General Hospital",
+                "Address": "15-16 Phan V\u0103n Tr\u1ecb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65693,
+                    10.789524
+                ]
+            },
+            "properties": {
+                "name": "Marian Hospital Co., Ltd",
+                "Address": "118 B\u00e0nh V\u0103n Tr\u00e2n, ph\u01b0\u1eddng 7, Qu\u1eadn T\u00e2n B\u00ecnh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6869891,
+                    10.7769402
+                ]
+            },
+            "properties": {
+                "name": "H\u1ed3 Ch\u00ed Minh City Hospital of Dermato Venereology",
+                "Address": "2 Nguy\u1ec5n Th\u00f4ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6849924,
+                    10.7787492
+                ]
+            },
+            "properties": {
+                "name": "Eye Hospital of Ho Chi Minh City",
+                "Address": "280 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6966093,
+                    10.7980549
+                ]
+            },
+            "properties": {
+                "name": "Binh Thanh Hospital",
+                "Address": "112AB \u0110inh Ti\u00ean Ho\u00e0ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67641,
+                    10.7415743
+                ]
+            },
+            "properties": {
+                "name": "Hospital District 8",
+                "Address": "82 \u0110\u01b0\u1eddng Cao L\u1ed7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7321187,
+                    11.0447579
+                ]
+            },
+            "properties": {
+                "name": "Chau Thanh Clinic - Nam Tan Uyen",
+                "Address": "TL746"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7178872,
+                    10.733604
+                ]
+            },
+            "properties": {
+                "name": "Tam Duc Heart Hospital",
+                "Address": "4 Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6785096,
+                    10.7529035
+                ]
+            },
+            "properties": {
+                "name": "B\u1ec7nh vi\u1ec7n B\u1ec7nh Nhi\u1ec7t \u0111\u1edbi",
+                "Address": "764 V\u00f5 V\u0103n Ki\u1ec7t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7631823,
+                    10.8697222
+                ]
+            },
+            "properties": {
+                "name": "Hoan Hao Hospital",
+                "Address": "26/14 Kp, B\u00ecnh \u0110\u01b0\u1eddng 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6886088,
+                    10.7697259
+                ]
+            },
+            "properties": {
+                "name": "SI Hospital",
+                "Address": "63 B\u00f9i Th\u1ecb Xu\u00e2n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6946164,
+                    10.8048854
+                ]
+            },
+            "properties": {
+                "name": "B\u1ec7nh vi\u1ec7n Ung B\u01b0\u1edbu",
+                "Address": "3 N\u01a1 Trang Long"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6320403,
+                    10.7612356
+                ]
+            },
+            "properties": {
+                "name": "International Neurosurgery Hospital",
+                "Address": "65A L\u0169y B\u00e1n B\u00edch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.655593,
+                    10.7946661
+                ]
+            },
+            "properties": {
+                "name": "Tan Binh Hospital",
+                "Address": "605 Ho\u00e0ng V\u0103n Th\u1ee5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7202074,
+                    10.7945234
+                ]
+            },
+            "properties": {
+                "name": "Vinmec International General Hospital",
+                "Address": "208 Nguy\u1ec5n H\u1eefu C\u1ea3nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6617815,
+                    10.7558541
+                ]
+            },
+            "properties": {
+                "name": "Hung Vuong Hospital",
+                "Address": "128 H\u1ed3ng B\u00e0ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6671539,
+                    10.7747576
+                ]
+            },
+            "properties": {
+                "name": "115 People's Hospital",
+                "Address": "527 S\u01b0 V\u1ea1n H\u1ea1nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6644707,
+                    10.7552399
+                ]
+            },
+            "properties": {
+                "name": "University Medical Center",
+                "Address": "215 H\u1ed3ng B\u00e0ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6171191,
+                    10.7392829
+                ]
+            },
+            "properties": {
+                "name": "Trieu An Hospital",
+                "Address": "425 Kinh D\u01b0\u01a1ng V\u01b0\u01a1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.5738758,
+                    10.7096251
+                ]
+            },
+            "properties": {
+                "name": "City Children's Hospital",
+                "Address": "15 \u0110. V\u00f5 Tr\u1ea7n Ch\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.3643284,
+                    10.3549773
+                ]
+            },
+            "properties": {
+                "name": "Tien Giang Central General Hospital",
+                "Address": "02 \u0110\u01b0\u1eddng H\u00f9ng V\u01b0\u01a1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6812751,
+                    10.7740246
+                ]
+            },
+            "properties": {
+                "name": "B\u1ec7nh vi\u1ec7n B\u00ecnh D\u00e2n",
+                "Address": "371 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7180068,
+                    10.7325029
+                ]
+            },
+            "properties": {
+                "name": "FV Hospital",
+                "Address": "6 Nguy\u1ec5n L\u01b0\u01a1ng B\u1eb1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6418142,
+                    11.0042176
+                ]
+            },
+            "properties": {
+                "name": "Van Phuc Hospital",
+                "Address": "45 H\u1ed3 V\u0103n C\u1ed1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6967836,
+                    10.7674164
+                ]
+            },
+            "properties": {
+                "name": "Saigon ENT Hospital",
+                "Address": "1 Tr\u1ecbnh V\u0103n C\u1ea5n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.867861,
+                    10.9526833
+                ]
+            },
+            "properties": {
+                "name": "Dong Nai General Hospital",
+                "Address": "2 \u0110\u01b0\u1eddng \u0110\u1ed3ng Kh\u1edfi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6941452,
+                    10.8037738
+                ]
+            },
+            "properties": {
+                "name": "Gia \u0110\u1ecbnh People's Hospital",
+                "Address": "1 N\u01a1 Trang Long"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6655039,
+                    10.7563308
+                ]
+            },
+            "properties": {
+                "name": "Pham Ngoc Thach Hospital",
+                "Address": "120 H\u1ed3ng B\u00e0ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.641564,
+                    10.7999782
+                ]
+            },
+            "properties": {
+                "name": "My Duc Hospital",
+                "Address": "4 \u0110\u01b0\u1eddng N\u00fai Th\u00e0nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.702319,
+                    10.7808424
+                ]
+            },
+            "properties": {
+                "name": "Children Hospital 2",
+                "Address": "14 L\u00fd T\u1ef1 Tr\u1ecdng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6801173,
+                    10.8187651
+                ]
+            },
+            "properties": {
+                "name": "Military Hospital 175",
+                "Address": "786 Nguy\u1ec5n Ki\u1ec7m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7468671,
+                    10.7933979
+                ]
+            },
+            "properties": {
+                "name": "Ph\u00f2ng Kh\u00e1m M\u1eaft - B\u1ec7nh vi\u1ec7n Qu\u1ed1c t\u1ebf M\u1ef9 - BSCK2 L\u00ea H\u1ed3ng H\u00e0",
+                "Address": "199 Nguy\u1ec5n Ho\u00e0ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6615657,
+                    10.8346854
+                ]
+            },
+            "properties": {
+                "name": "Go Vap Hospital",
+                "Address": "641 Quang Trung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6613356,
+                    10.7581959
+                ]
+            },
+            "properties": {
+                "name": "B\u1ec7nh Vi\u1ec7n \u0110\u1ea1i H\u1ecdc Y D\u01b0\u1ee3c c\u01a1 s\u1edf 2",
+                "Address": "201 Nguy\u1ec5n Ch\u00ed Thanh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6459013,
+                    10.7560103
+                ]
+            },
+            "properties": {
+                "name": "Ph\u00f2ng Kh\u00e1m \u0110a Khoa \u0110\u1ea1i Vi\u1ec7t",
+                "Address": "1505 \u0111\u01b0\u1eddng 3/2, P16, Q11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6841186,
+                    11.0732109
+                ]
+            },
+            "properties": {
+                "name": "Van Phuc Hospital 1",
+                "Address": "Tr\u1ea7n Qu\u1ed1c To\u1ea3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7371774,
+                    10.9476529
+                ]
+            },
+            "properties": {
+                "name": "ANPHU GENERAL HOSPITAL",
+                "Address": "Hai M\u01b0\u01a1i Hai Th\u00e1ng M\u01b0\u1eddi Hai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6417917,
+                    10.7836013
+                ]
+            },
+            "properties": {
+                "name": "Tan Phu District Hospital",
+                "Address": "611 \u00c2u C\u01a1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6672217,
+                    10.7949426
+                ]
+            },
+            "properties": {
+                "name": "ITO",
+                "Address": "305 \u0110. L\u00ea V\u0103n S\u1ef9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7692559,
+                    10.782703
+                ]
+            },
+            "properties": {
+                "name": "Hospital District 2",
+                "Address": "130 \u0110\u01b0\u1eddng L\u00ea V\u0103n Th\u1ecbnh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6459463,
+                    10.7560291
+                ]
+            },
+            "properties": {
+                "name": "Ph\u00f2ng kh\u00e1m \u0111a khoa 3 th\u00e1ng 2",
+                "Address": "1505 \u0110\u01b0\u1eddng 3 Th\u00e1ng 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6700859,
+                    10.9742217
+                ]
+            },
+            "properties": {
+                "name": "Ph\u00f2ng Kh\u00e1m \u0110a Khoa Th\u1ee7 D\u1ea7u M\u1ed9t",
+                "Address": "303 \u0110\u1ea1i l\u1ed9 B\u00ecnh D\u01b0\u01a1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8525806,
+                    10.9657785
+                ]
+            },
+            "properties": {
+                "name": "7B Military Medical Hospital",
+                "Address": "Nguy\u1ec5n \u00c1i Qu\u1ed1c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7241827,
+                    10.7373066
+                ]
+            },
+            "properties": {
+                "name": "Hospital of District 7",
+                "Address": "101 Nguy\u1ec5n Th\u1ecb Th\u1eadp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6594844,
+                    10.7705588
+                ]
+            },
+            "properties": {
+                "name": "Tr\u01b0ng V\u01b0\u01a1ng Hospital",
+                "Address": "266 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8743567,
+                    10.9561978
+                ]
+            },
+            "properties": {
+                "name": "Dong Nai Children's Hospital",
+                "Address": "H\u1ebbm 528 Xa l\u1ed9 H\u00e0 N\u1ed9i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6645646,
+                    10.8329056
+                ]
+            },
+            "properties": {
+                "name": "Hong Duc Hospital",
+                "Address": "2 \u0110\u01b0\u1eddng Th\u1ed1ng Nh\u1ea5t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6965784,
+                    10.7672619
+                ]
+            },
+            "properties": {
+                "name": "Ph\u00f2ng Kh\u00e1m \u0110a Khoa Qu\u1ed1c T\u1ebf S\u00e0i G\u00f2n",
+                "Address": "9 Tr\u1ecbnh V\u0103n C\u1ea5n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6768007,
+                    10.7979644
+                ]
+            },
+            "properties": {
+                "name": "Sai Gon ITO Phu Nhuan Hospital",
+                "Address": "140C Nguy\u1ec5n Tr\u1ecdng Tuy\u1ec3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6545474,
+                    10.8730831
+                ]
+            },
+            "properties": {
+                "name": "Ph\u00f2ng kh\u00e1m nam khoa qu\u1eadn 12",
+                "Address": "M12, L\u00ea Th\u1ecb Ri\u00eang, Khu Ph\u1ed1 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8287615,
+                    10.9479618
+                ]
+            },
+            "properties": {
+                "name": "ITO Saigon - Dong Nai hospital",
+                "Address": "F99 \u0110. V\u00f5 Th\u1ecb S\u00e1u"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.681573,
+                    10.781006
+                ]
+            },
+            "properties": {
+                "name": "B\u1ec7nh Vi\u1ec7n M\u1eaft Qu\u1ed1c T\u1ebf Ho\u00e0n M\u1ef9 S\u00e0i G\u00f2n",
+                "Address": "27 K\u1ef3 \u0110\u1ed3ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7784882,
+                    10.8459577
+                ]
+            },
+            "properties": {
+                "name": "Eastern People Military Hospital",
+                "Address": "50 L\u00ea V\u0103n Vi\u1ec7t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6389623,
+                    10.8737326
+                ]
+            },
+            "properties": {
+                "name": "District 12 Hospital",
+                "Address": "111 D\u01b0\u01a1ng Th\u1ecb M\u01b0\u1eddi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6786276,
+                    10.7911334
+                ]
+            },
+            "properties": {
+                "name": "An Sinh Hospital",
+                "Address": "10 Tr\u1ea7n Huy Li\u1ec7u"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6710701,
+                    10.7568019
+                ]
+            },
+            "properties": {
+                "name": "An \u0110\u00f4ng Obstetrics Hospital",
+                "Address": "83 An D\u01b0\u01a1ng V\u01b0\u01a1ng"
+            }
+        }
+    ]
+}
